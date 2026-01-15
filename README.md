@@ -106,17 +106,17 @@
 
 | Welcome Screen | Login | Dashboard |
 |:---:|:---:|:---:|
-| ![Welcome](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d76f85a1-36ee-410c-93b5-9d17f56fe446" />
-) | ![Login](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e9198c5-c417-4dda-8d87-258b38f6b826" />
-) | ![Dashboard](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/65ecfd56-9210-4cf2-a2ba-4bc13c9e879a" />
-) |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d76f85a1-36ee-410c-93b5-9d17f56fe446" />
+ |<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e9198c5-c417-4dda-8d87-258b38f6b826" />
+ |<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/65ecfd56-9210-4cf2-a2ba-4bc13c9e879a" />
+|
 
 | Wallet | Statistics | Profile |
 |:---:|:---:|:---:|
-| ![Wallet](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6027c814-b75d-4094-8562-11bb41e4c7f1" />
-) | ![Stats](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/23f1e77f-2639-485d-9c61-42e5383e875f" />
-) | ![Profile](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a066452-3cdd-44be-af7d-c31dee5606c9" />
-) |
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6027c814-b75d-4094-8562-11bb41e4c7f1" />
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/23f1e77f-2639-485d-9c61-42e5383e875f" />
+|<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a066452-3cdd-44be-af7d-c31dee5606c9" />
+|
 
 </div>
 
